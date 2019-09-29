@@ -5,6 +5,7 @@ public class Seleniumtest1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("This is selenium");
+		System.out.println("This is appium");
 	}
 
 }
